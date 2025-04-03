@@ -1,4 +1,35 @@
-# 👨🏾‍💻 Marcos Junior Dev
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Máquina de Escrever</title>
+    <style>
+        .typing {
+            font-size: 24px;
+            font-weight: bold;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 3px solid black;
+            width: 0;
+            animation: typing 3s steps(10, end) forwards, blink 0.5s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 150px; } /* Ajuste conforme o tamanho do nome */
+        }
+
+        @keyframes blink {
+            50% { border-color: transparent; }
+        }
+    </style>
+</head>
+<body>
+    <div class="typing">Marcos Junior Dev</div>
+</body>
+</html>
+
 
 **`Desenvolvedor FullStack`**
 
