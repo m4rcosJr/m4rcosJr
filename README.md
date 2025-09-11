@@ -1,4 +1,4 @@
-# Marcos Junior Dev 👨🏿‍💻
+<img width="1481" height="829" alt="image" src="https://github.com/user-attachments/assets/c88eb739-3d51-4fd4-a9b4-a081426d528f" /># Marcos Junior Dev 👨🏿‍💻
 **`Desenvolvedor FullStack`**
 
 Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP Jundiaí. Sou apaixonado e entusiasta da tecnologia, estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de TI. Formatura prevista para dezembro de 2026. 
@@ -87,14 +87,16 @@ Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    ### 📊 Estatísticas do GitHub
+    src ="https://github-readme-stats.vercel.app/api?username=m4rcosJr&show_icons=true&theme=radical)"
+
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
