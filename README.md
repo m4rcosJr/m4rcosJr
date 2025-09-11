@@ -1,4 +1,4 @@
-<img width="1481" height="829" alt="image" src="https://github.com/user-attachments/assets/c88eb739-3d51-4fd4-a9b4-a081426d528f" /># Marcos Junior Dev 👨🏿‍💻
+# Marcos Junior Dev 👨🏿‍💻
 **`Desenvolvedor FullStack`**
 
 Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP Jundiaí. Sou apaixonado e entusiasta da tecnologia, estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de TI. Formatura prevista para dezembro de 2026. 
@@ -11,25 +11,18 @@ Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, 
             title="Me siga no LinkedIn"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/m4rcosJr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/m4rcosJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/m4rcosJr?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/m4rcosJr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -60,9 +53,7 @@ Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, 
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
@@ -73,31 +64,13 @@ Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-
-
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    ### 📊 Estatísticas do GitHub
-    src ="https://github-readme-stats.vercel.app/api?username=m4rcosJr&show_icons=true&theme=radical)"
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=m4rcosJr&show_icons=true&theme=tokyonight)
 
-  />
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosJr&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
