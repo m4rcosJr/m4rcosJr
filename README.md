@@ -67,10 +67,5 @@ Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, 
 <br/>
 <br/>
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=m4rcosJr&show_icons=true&theme=tokyonight)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosJr&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
 
 
