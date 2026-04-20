@@ -1,7 +1,7 @@
 # Marcos Junior Dev 👨🏿‍💻
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcos Junior, tenho 18 anos e sou natural de Louveira/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP Jundiaí. Sou apaixonado e entusiasta da tecnologia, estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de TI. Formatura prevista para dezembro de 2026. 
+Me chamo Marcos Junior, tenho 19 anos e sou natural de Louveira/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP Jundiaí. Sou apaixonado e entusiasta da tecnologia, estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de TI. Formatura prevista para dezembro de 2026. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcos-juniordev" target="_blank">
