@@ -82,6 +82,22 @@ Me chamo Marcos Junior, tenho 19 anos e sou natural de Louveira/SP. Atualmente, 
     src="https://images.icon-icons.com/2107/PNG/512/file_type_typescript_official_icon_130107.png" 
 />
 
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<img 
+    align="left" 
+    alt="TS" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2107/PNG/512/file_type_typescript_official_icon_130107.png" 
+/>" 
+/>
+
 <br/>
 <br/>
 
