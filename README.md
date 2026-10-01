@@ -97,7 +97,7 @@ Me chamo Marcos Junior, tenho 19 anos e sou natural de Louveira/SP. Atualmente, 
     title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png](https://uxwing.com/microsoft-dot-net-icon/"  
+    src="https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png"  
 />
 
 <br/>
