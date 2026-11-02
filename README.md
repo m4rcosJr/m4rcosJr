@@ -2,16 +2,26 @@
 
 <img src="assets/header.svg" alt="Marcos Junior Dev — Full Stack Developer | C# | .NET | SQL" width="100%" />
 
-<a href="https://www.linkedin.com/in/marcos-juniordev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marcos--juniordev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/m4rcosJr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-m4rcosJr-161b22?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/m4rcosJr?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/m4rcosJr?style=flat-square&logo=github&label=Seguidores&color=1f6feb&labelColor=161b22" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-juniordev" target="_blank">
+    <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Me%20siga%20no%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/m4rcosJr" target="_blank">
+    <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/-m4rcosJr-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/m4rcosJr?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/m4rcosJr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+  <a href="https://github.com/m4rcosJr?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas nos repositórios" src="https://custom-icon-badges.demolab.com/github/stars/m4rcosJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  </a>
+</p>
 
 </div>
 
 ## Sobre mim
 
 Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse especial pelo ecossistema **C#/.NET**, desenvolvimento de APIs, arquitetura de software, bancos de dados e soluções que conectam tecnologia e processos de negócio. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos e novos desafios.
-
 
 ## Dashboard
 
