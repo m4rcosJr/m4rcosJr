@@ -12,7 +12,7 @@
 
 Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse especial pelo ecossistema **C#/.NET**, desenvolvimento de APIs, arquitetura de software, bancos de dados e soluções que conectam tecnologia e processos de negócio. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos e novos desafios.
 
-📍 Louveira, SP &nbsp;·&nbsp; 🎓 ADS — UNIP Jundiaí (formatura prevista: dez/2026)
+📍 Louveira, SP &nbsp;·&nbsp; 🎓 Análise e Desenvolvimento de Sistemas.
 
 ## Dashboard
 
@@ -29,22 +29,40 @@ Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sist
 
 <p align="center">
   <sub><b>BACKEND</b></sub><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET · ASP.NET Core · Entity Framework Core" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-21262d?style=flat-square" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-21262d?style=flat-square" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-21262d?style=flat-square" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-21262d?style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-21262d?style=flat-square" />
 </p>
 
 <p align="center">
   <sub><b>FRONTEND</b></sub><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" title="React" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-21262d?style=flat-square" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-21262d?style=flat-square" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/React-21262d?style=flat-square" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-21262d?style=flat-square" />
 </p>
 
 <p align="center">
   <sub><b>BANCO DE DADOS</b></sub><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="32" height="32" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-21262d?style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-21262d?style=flat-square" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-21262d?style=flat-square" />
 </p>
 
 <p align="center">
   <sub><b>FERRAMENTAS</b></sub><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" title="GitHub" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger · REST APIs" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="32" height="32" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="32" height="32" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-21262d?style=flat-square" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262d?style=flat-square" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-21262d?style=flat-square" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-21262d?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-21262d?style=flat-square" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-21262d?style=flat-square" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-21262d?style=flat-square" />
 </p>
 
 ## Projetos em destaque
