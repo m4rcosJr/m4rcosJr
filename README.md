@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/marcos-juniordev" target="_blank">
     <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Me%20siga%20no%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/m4rcosJr" target="_blank">
-    <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/-m4rcosJr-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://github.com/m4rcosJr?tab=followers">
     <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/m4rcosJr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
