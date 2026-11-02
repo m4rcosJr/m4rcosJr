@@ -12,7 +12,6 @@
 
 Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse especial pelo ecossistema **C#/.NET**, desenvolvimento de APIs, arquitetura de software, bancos de dados e soluções que conectam tecnologia e processos de negócio. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos e novos desafios.
 
-📍 Louveira, SP &nbsp;·&nbsp; 🎓 ADS — UNIP Jundiaí (formatura prevista: dez/2026)
 
 ## Dashboard
 
