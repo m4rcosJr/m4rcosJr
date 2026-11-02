@@ -1,0 +1,42 @@
+name: Atualizar dashboard
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia às 06:00 UTC (03:00 no horário de Brasília)
+  workflow_dispatch:       # permite executar manualmente pela aba Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-dashboard.yml"
+
+permissions:
+  contents: write          # necessário para o bot commitar os SVGs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar SVGs do dashboard
+        run: python scripts/generate_dashboard.py
+        env:
+          # Se você criar o secret METRICS_TOKEN (opcional), ele é usado;
+          # caso contrário, usa o token automático do Actions.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: m4rcosJr
+
+      - name: Commitar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || git commit -m "chore: atualiza dashboard"
+          git push
