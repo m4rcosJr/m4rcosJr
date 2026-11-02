@@ -12,7 +12,7 @@
 
 Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse especial pelo ecossistema **C#/.NET**, desenvolvimento de APIs, arquitetura de software, bancos de dados e soluções que conectam tecnologia e processos de negócio. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos e novos desafios.
 
-📍 Louveira, SP &nbsp;·&nbsp; 🎓 Análise e Desenvolvimento de Sistemas.
+📍 Louveira, SP &nbsp;·&nbsp; 🎓 ADS — UNIP Jundiaí (formatura prevista: dez/2026)
 
 ## Dashboard
 
@@ -28,41 +28,28 @@ Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sist
 ## Tecnologias
 
 <p align="center">
-  <sub><b>BACKEND</b></sub><br />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-21262d?style=flat-square" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-21262d?style=flat-square" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-21262d?style=flat-square" />
-  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-21262d?style=flat-square" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-21262d?style=flat-square" />
-</p>
-
-<p align="center">
-  <sub><b>FRONTEND</b></sub><br />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-21262d?style=flat-square" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-21262d?style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square" />
-  <img alt="React" src="https://img.shields.io/badge/React-21262d?style=flat-square" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-21262d?style=flat-square" />
-</p>
-
-<p align="center">
-  <sub><b>BANCO DE DADOS</b></sub><br />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-21262d?style=flat-square" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-21262d?style=flat-square" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-21262d?style=flat-square" />
-</p>
-
-<p align="center">
-  <sub><b>FERRAMENTAS</b></sub><br />
-  <img alt="Git" src="https://img.shields.io/badge/Git-21262d?style=flat-square" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262d?style=flat-square" />
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-21262d?style=flat-square" />
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-21262d?style=flat-square" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-21262d?style=flat-square" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-21262d?style=flat-square" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-21262d?style=flat-square" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-009688?style=flat" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat" />
 </p>
 
 ## Projetos em destaque
