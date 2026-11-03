@@ -7,7 +7,7 @@
     <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Me%20siga%20no%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/m4rcosJr?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/m4rcosJr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/m4rcosJr?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba&logoColor=white" />
   </a>
   <a href="https://github.com/m4rcosJr?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas nos repositórios" src="https://custom-icon-badges.demolab.com/github/stars/m4rcosJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
