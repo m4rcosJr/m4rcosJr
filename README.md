@@ -9,9 +9,6 @@
   <a href="https://github.com/m4rcosJr?tab=followers">
     <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/m4rcosJr?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba&logoColor=white" />
   </a>
-  <a href="https://github.com/m4rcosJr?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas nos repositórios" src="https://custom-icon-badges.demolab.com/github/stars/m4rcosJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  </a>
 </p>
 
 </div>
