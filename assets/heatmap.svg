@@ -371,6 +371,7 @@
 <rect x="804" y="82" width="12" height="12" rx="2" fill="#0c3b4a"/>
 <rect x="804" y="97" width="12" height="12" rx="2" fill="#0c3b4a"/>
 <rect x="804" y="112" width="12" height="12" rx="2" fill="#161b22"/>
+<rect x="804" y="127" width="12" height="12" rx="2" fill="#161b22"/>
 <text x="672" y="183" font-size="11" fill="#8b949e">Menos</text>
 <rect x="712" y="173" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="728" y="173" width="12" height="12" rx="2" fill="#0c3b4a"/>
